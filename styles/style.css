@@ -5,14 +5,16 @@ html {
 
 
 h1 {
-  font-size: 60px;
+  font-size: 18px;
   text-align: center;
+  color: #fff;
 }
 
 p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+  color: #fff;
 }
 
 
@@ -21,18 +23,12 @@ html {
 }
 
 body {
-  width: 1000px;
+  width: 100%;
   margin: 0 auto;
   background-color: #000;
   padding: 50px 0px 0px 0px;
 }
 
-h1 {
-  margin: 0;
-  padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
-}
 
 img {
   display: block;
